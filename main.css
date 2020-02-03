@@ -102,6 +102,10 @@ header h2 {
     letter-spacing: 0.05em;
 }
 
+header h3 {
+    font-weight: 300;
+}
+
 /*Nav Bars*/
 nav {
     color: #000;
